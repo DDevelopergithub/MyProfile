@@ -1,2 +1,2 @@
 # MyProfile
-# Technology Static:HTML5
+# Technology Stack:HTML5
